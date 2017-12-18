@@ -1,0 +1,431 @@
+color silver
+hide everything
+show cartoon
+bg_color white
+center
+color lightblue , chain A
+color lightpink , chain B
+color blue , chain  A and resi 1172
+color blue , chain  A and resi 1172
+color blue , chain  A and resi 1190
+color blue , chain  A and resi 1120
+color blue , chain  A and resi 1124
+color blue , chain  A and resi 1222
+color blue , chain  A and resi 1225
+color blue , chain  A and resi 1187
+color blue , chain  A and resi 1120
+color blue , chain  A and resi 1139
+color blue , chain  A and resi 1227
+color blue , chain  A and resi 1178
+color blue , chain  A and resi 1173
+color blue , chain  A and resi 1225
+color blue , chain  A and resi 1118
+color blue , chain  A and resi 1224
+color blue , chain  A and resi 1205
+color blue , chain  A and resi 1140
+color blue , chain  A and resi 1141
+color blue , chain  A and resi 1119
+color blue , chain  A and resi 1173
+color blue , chain  A and resi 1227
+color blue , chain  A and resi 1190
+color blue , chain  A and resi 1211
+color blue , chain  A and resi 1118
+color blue , chain  A and resi 1172
+color blue , chain  A and resi 1172
+color blue , chain  A and resi 1227
+color blue , chain  A and resi 1122
+color blue , chain  A and resi 1142
+color blue , chain  A and resi 1177
+color blue , chain  A and resi 1189
+color blue , chain  A and resi 1123
+color blue , chain  A and resi 1177
+color blue , chain  A and resi 1119
+color blue , chain  A and resi 1177
+color blue , chain  A and resi 1176
+color blue , chain  A and resi 1139
+color blue , chain  A and resi 1142
+color blue , chain  A and resi 1209
+color blue , chain  A and resi 1171
+color blue , chain  A and resi 1116
+color blue , chain  A and resi 1228
+color blue , chain  A and resi 1181
+color blue , chain  A and resi 1172
+color blue , chain  A and resi 1190
+color blue , chain  A and resi 1176
+color blue , chain  A and resi 1117
+color blue , chain  A and resi 1229
+color blue , chain  A and resi 1190
+color blue , chain  A and resi 1121
+color blue , chain  A and resi 1117
+color blue , chain  A and resi 1139
+color blue , chain  A and resi 1211
+color blue , chain  A and resi 1168
+color blue , chain  A and resi 1119
+color blue , chain  A and resi 1188
+color blue , chain  A and resi 1123
+color blue , chain  A and resi 1172
+color blue , chain  A and resi 1190
+color blue , chain  A and resi 1173
+color blue , chain  A and resi 1175
+color blue , chain  A and resi 1177
+color blue , chain  A and resi 1119
+color blue , chain  A and resi 1166
+color blue , chain  A and resi 1222
+color blue , chain  A and resi 1171
+color blue , chain  A and resi 1169
+color blue , chain  A and resi 1168
+color blue , chain  A and resi 1142
+color blue , chain  A and resi 1122
+color blue , chain  A and resi 1172
+color blue , chain  A and resi 1117
+color blue , chain  A and resi 1176
+color blue , chain  A and resi 1141
+color blue , chain  A and resi 1171
+color blue , chain  A and resi 1176
+color blue , chain  A and resi 1173
+color blue , chain  A and resi 1190
+color blue , chain  A and resi 1171
+color blue , chain  A and resi 1168
+color blue , chain  A and resi 1169
+color blue , chain  A and resi 1170
+color blue , chain  A and resi 1230
+color blue , chain  A and resi 1172
+color blue , chain  A and resi 1177
+color blue , chain  A and resi 1226
+color blue , chain  A and resi 1115
+color blue , chain  A and resi 1176
+color blue , chain  A and resi 1212
+color blue , chain  A and resi 1170
+color blue , chain  A and resi 1119
+color blue , chain  A and resi 1169
+color blue , chain  A and resi 1139
+color blue , chain  A and resi 1176
+color blue , chain  A and resi 1176
+color blue , chain  A and resi 1168
+color blue , chain  A and resi 1177
+color blue , chain  A and resi 1139
+color blue , chain  A and resi 1229
+color blue , chain  A and resi 1174
+color blue , chain  A and resi 1208
+color blue , chain  A and resi 1210
+color blue , chain  A and resi 1189
+color blue , chain  A and resi 1173
+color blue , chain  A and resi 1123
+color hotpink , chain  B and resi 19
+color hotpink , chain  B and resi 46
+color hotpink , chain  B and resi 51
+color hotpink , chain  B and resi 64
+color hotpink , chain  B and resi 65
+color hotpink , chain  B and resi 47
+color hotpink , chain  B and resi 46
+color hotpink , chain  B and resi 54
+color hotpink , chain  B and resi 63
+color hotpink , chain  B and resi 58
+color hotpink , chain  B and resi 44
+color hotpink , chain  B and resi 42
+color hotpink , chain  B and resi 47
+color hotpink , chain  B and resi 45
+color hotpink , chain  B and resi 63
+color hotpink , chain  B and resi 45
+color hotpink , chain  B and resi 42
+color hotpink , chain  B and resi 58
+color hotpink , chain  B and resi 58
+color hotpink , chain  B and resi 64
+color hotpink , chain  B and resi 48
+color hotpink , chain  B and resi 45
+color hotpink , chain  B and resi 55
+color hotpink , chain  B and resi 45
+color hotpink , chain  B and resi 60
+color hotpink , chain  B and resi 52
+color hotpink , chain  B and resi 20
+color hotpink , chain  B and resi 43
+color hotpink , chain  B and resi 65
+color hotpink , chain  B and resi 58
+color hotpink , chain  B and resi 45
+color hotpink , chain  B and resi 54
+color hotpink , chain  B and resi 65
+color hotpink , chain  B and resi 38
+color hotpink , chain  B and resi 62
+color hotpink , chain  B and resi 47
+color hotpink , chain  B and resi 38
+color hotpink , chain  B and resi 63
+color hotpink , chain  B and resi 59
+color hotpink , chain  B and resi 43
+color hotpink , chain  B and resi 52
+color hotpink , chain  B and resi 60
+color hotpink , chain  B and resi 42
+color hotpink , chain  B and resi 54
+color hotpink , chain  B and resi 23
+color hotpink , chain  B and resi 57
+color hotpink , chain  B and resi 45
+color hotpink , chain  B and resi 58
+color hotpink , chain  B and resi 43
+color hotpink , chain  B and resi 54
+color hotpink , chain  B and resi 66
+color hotpink , chain  B and resi 59
+color hotpink , chain  B and resi 61
+color hotpink , chain  B and resi 43
+color hotpink , chain  B and resi 52
+color hotpink , chain  B and resi 63
+color hotpink , chain  B and resi 54
+color hotpink , chain  B and resi 67
+color hotpink , chain  B and resi 35
+color hotpink , chain  B and resi 56
+color hotpink , chain  B and resi 52
+color hotpink , chain  B and resi 23
+color hotpink , chain  B and resi 46
+color hotpink , chain  B and resi 61
+color hotpink , chain  B and resi 58
+color hotpink , chain  B and resi 46
+color hotpink , chain  B and resi 54
+color hotpink , chain  B and resi 54
+color hotpink , chain  B and resi 54
+color hotpink , chain  B and resi 60
+color hotpink , chain  B and resi 66
+color hotpink , chain  B and resi 21
+color hotpink , chain  B and resi 60
+color hotpink , chain  B and resi 46
+color hotpink , chain  B and resi 55
+color hotpink , chain  B and resi 23
+color hotpink , chain  B and resi 44
+color hotpink , chain  B and resi 45
+color hotpink , chain  B and resi 58
+color hotpink , chain  B and resi 53
+color hotpink , chain  B and resi 55
+color hotpink , chain  B and resi 53
+color hotpink , chain  B and resi 54
+color hotpink , chain  B and resi 42
+color hotpink , chain  B and resi 16
+color hotpink , chain  B and resi 43
+color hotpink , chain  B and resi 45
+color hotpink , chain  B and resi 60
+color hotpink , chain  B and resi 16
+color hotpink , chain  B and resi 45
+color hotpink , chain  B and resi 52
+color hotpink , chain  B and resi 60
+color hotpink , chain  B and resi 52
+color hotpink , chain  B and resi 60
+color hotpink , chain  B and resi 42
+color hotpink , chain  B and resi 12
+color hotpink , chain  B and resi 51
+color hotpink , chain  B and resi 44
+color hotpink , chain  B and resi 59
+color hotpink , chain  B and resi 42
+color hotpink , chain  B and resi 54
+color hotpink , chain  B and resi 43
+color hotpink , chain  B and resi 43
+color hotpink , chain  B and resi 55
+color hotpink , chain  B and resi 46
+color hotpink , chain  B and resi 66
+show sticks, chain  A and resi 1172
+show sticks, chain  A and resi 1172
+show sticks, chain  A and resi 1190
+show sticks, chain  A and resi 1120
+show sticks, chain  A and resi 1124
+show sticks, chain  A and resi 1222
+show sticks, chain  A and resi 1225
+show sticks, chain  A and resi 1187
+show sticks, chain  A and resi 1120
+show sticks, chain  A and resi 1139
+show sticks, chain  A and resi 1227
+show sticks, chain  A and resi 1178
+show sticks, chain  A and resi 1173
+show sticks, chain  A and resi 1225
+show sticks, chain  A and resi 1118
+show sticks, chain  A and resi 1224
+show sticks, chain  A and resi 1205
+show sticks, chain  A and resi 1140
+show sticks, chain  A and resi 1141
+show sticks, chain  A and resi 1119
+show sticks, chain  A and resi 1173
+show sticks, chain  A and resi 1227
+show sticks, chain  A and resi 1190
+show sticks, chain  A and resi 1211
+show sticks, chain  A and resi 1118
+show sticks, chain  A and resi 1172
+show sticks, chain  A and resi 1172
+show sticks, chain  A and resi 1227
+show sticks, chain  A and resi 1122
+show sticks, chain  A and resi 1142
+show sticks, chain  A and resi 1177
+show sticks, chain  A and resi 1189
+show sticks, chain  A and resi 1123
+show sticks, chain  A and resi 1177
+show sticks, chain  A and resi 1119
+show sticks, chain  A and resi 1177
+show sticks, chain  A and resi 1176
+show sticks, chain  A and resi 1139
+show sticks, chain  A and resi 1142
+show sticks, chain  A and resi 1209
+show sticks, chain  A and resi 1171
+show sticks, chain  A and resi 1116
+show sticks, chain  A and resi 1228
+show sticks, chain  A and resi 1181
+show sticks, chain  A and resi 1172
+show sticks, chain  A and resi 1190
+show sticks, chain  A and resi 1176
+show sticks, chain  A and resi 1117
+show sticks, chain  A and resi 1229
+show sticks, chain  A and resi 1190
+show sticks, chain  A and resi 1121
+show sticks, chain  A and resi 1117
+show sticks, chain  A and resi 1139
+show sticks, chain  A and resi 1211
+show sticks, chain  A and resi 1168
+show sticks, chain  A and resi 1119
+show sticks, chain  A and resi 1188
+show sticks, chain  A and resi 1123
+show sticks, chain  A and resi 1172
+show sticks, chain  A and resi 1190
+show sticks, chain  A and resi 1173
+show sticks, chain  A and resi 1175
+show sticks, chain  A and resi 1177
+show sticks, chain  A and resi 1119
+show sticks, chain  A and resi 1166
+show sticks, chain  A and resi 1222
+show sticks, chain  A and resi 1171
+show sticks, chain  A and resi 1169
+show sticks, chain  A and resi 1168
+show sticks, chain  A and resi 1142
+show sticks, chain  A and resi 1122
+show sticks, chain  A and resi 1172
+show sticks, chain  A and resi 1117
+show sticks, chain  A and resi 1176
+show sticks, chain  A and resi 1141
+show sticks, chain  A and resi 1171
+show sticks, chain  A and resi 1176
+show sticks, chain  A and resi 1173
+show sticks, chain  A and resi 1190
+show sticks, chain  A and resi 1171
+show sticks, chain  A and resi 1168
+show sticks, chain  A and resi 1169
+show sticks, chain  A and resi 1170
+show sticks, chain  A and resi 1230
+show sticks, chain  A and resi 1172
+show sticks, chain  A and resi 1177
+show sticks, chain  A and resi 1226
+show sticks, chain  A and resi 1115
+show sticks, chain  A and resi 1176
+show sticks, chain  A and resi 1212
+show sticks, chain  A and resi 1170
+show sticks, chain  A and resi 1119
+show sticks, chain  A and resi 1169
+show sticks, chain  A and resi 1139
+show sticks, chain  A and resi 1176
+show sticks, chain  A and resi 1176
+show sticks, chain  A and resi 1168
+show sticks, chain  A and resi 1177
+show sticks, chain  A and resi 1139
+show sticks, chain  A and resi 1229
+show sticks, chain  A and resi 1174
+show sticks, chain  A and resi 1208
+show sticks, chain  A and resi 1210
+show sticks, chain  A and resi 1189
+show sticks, chain  A and resi 1173
+show sticks, chain  A and resi 1123
+show sticks, chain  B and resi 19
+show sticks, chain  B and resi 46
+show sticks, chain  B and resi 51
+show sticks, chain  B and resi 64
+show sticks, chain  B and resi 65
+show sticks, chain  B and resi 47
+show sticks, chain  B and resi 46
+show sticks, chain  B and resi 54
+show sticks, chain  B and resi 63
+show sticks, chain  B and resi 58
+show sticks, chain  B and resi 44
+show sticks, chain  B and resi 42
+show sticks, chain  B and resi 47
+show sticks, chain  B and resi 45
+show sticks, chain  B and resi 63
+show sticks, chain  B and resi 45
+show sticks, chain  B and resi 42
+show sticks, chain  B and resi 58
+show sticks, chain  B and resi 58
+show sticks, chain  B and resi 64
+show sticks, chain  B and resi 48
+show sticks, chain  B and resi 45
+show sticks, chain  B and resi 55
+show sticks, chain  B and resi 45
+show sticks, chain  B and resi 60
+show sticks, chain  B and resi 52
+show sticks, chain  B and resi 20
+show sticks, chain  B and resi 43
+show sticks, chain  B and resi 65
+show sticks, chain  B and resi 58
+show sticks, chain  B and resi 45
+show sticks, chain  B and resi 54
+show sticks, chain  B and resi 65
+show sticks, chain  B and resi 38
+show sticks, chain  B and resi 62
+show sticks, chain  B and resi 47
+show sticks, chain  B and resi 38
+show sticks, chain  B and resi 63
+show sticks, chain  B and resi 59
+show sticks, chain  B and resi 43
+show sticks, chain  B and resi 52
+show sticks, chain  B and resi 60
+show sticks, chain  B and resi 42
+show sticks, chain  B and resi 54
+show sticks, chain  B and resi 23
+show sticks, chain  B and resi 57
+show sticks, chain  B and resi 45
+show sticks, chain  B and resi 58
+show sticks, chain  B and resi 43
+show sticks, chain  B and resi 54
+show sticks, chain  B and resi 66
+show sticks, chain  B and resi 59
+show sticks, chain  B and resi 61
+show sticks, chain  B and resi 43
+show sticks, chain  B and resi 52
+show sticks, chain  B and resi 63
+show sticks, chain  B and resi 54
+show sticks, chain  B and resi 67
+show sticks, chain  B and resi 35
+show sticks, chain  B and resi 56
+show sticks, chain  B and resi 52
+show sticks, chain  B and resi 23
+show sticks, chain  B and resi 46
+show sticks, chain  B and resi 61
+show sticks, chain  B and resi 58
+show sticks, chain  B and resi 46
+show sticks, chain  B and resi 54
+show sticks, chain  B and resi 54
+show sticks, chain  B and resi 54
+show sticks, chain  B and resi 60
+show sticks, chain  B and resi 66
+show sticks, chain  B and resi 21
+show sticks, chain  B and resi 60
+show sticks, chain  B and resi 46
+show sticks, chain  B and resi 55
+show sticks, chain  B and resi 23
+show sticks, chain  B and resi 44
+show sticks, chain  B and resi 45
+show sticks, chain  B and resi 58
+show sticks, chain  B and resi 53
+show sticks, chain  B and resi 55
+show sticks, chain  B and resi 53
+show sticks, chain  B and resi 54
+show sticks, chain  B and resi 42
+show sticks, chain  B and resi 16
+show sticks, chain  B and resi 43
+show sticks, chain  B and resi 45
+show sticks, chain  B and resi 60
+show sticks, chain  B and resi 16
+show sticks, chain  B and resi 45
+show sticks, chain  B and resi 52
+show sticks, chain  B and resi 60
+show sticks, chain  B and resi 52
+show sticks, chain  B and resi 60
+show sticks, chain  B and resi 42
+show sticks, chain  B and resi 12
+show sticks, chain  B and resi 51
+show sticks, chain  B and resi 44
+show sticks, chain  B and resi 59
+show sticks, chain  B and resi 42
+show sticks, chain  B and resi 54
+show sticks, chain  B and resi 43
+show sticks, chain  B and resi 43
+show sticks, chain  B and resi 55
+show sticks, chain  B and resi 46
+show sticks, chain  B and resi 66
